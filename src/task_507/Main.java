@@ -1,4 +1,4 @@
-package task507;
+package task_507;
 
 public class Main {
 
